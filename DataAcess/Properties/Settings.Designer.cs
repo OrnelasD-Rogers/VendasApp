@@ -26,8 +26,8 @@ namespace DataAcess.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Server = tcp:DESKTOP-JDPDNB3\\SQLEXPRESS, 49500; DataBase = VendasOficina; User Id" +
-            " = OficinaUser; Password = babylu13;")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Server = tcp:192.168.3.19\\ORNELASTEC,49500; DataBase = VendasOficina; User Id = O" +
+            "ficinaUser; Password = oficinadoesculacho;")]
         public string StringCon {
             get {
                 return ((string)(this["StringCon"]));
